@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d18b552-5244-4155-8370-838ba82c433f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/requirements_local.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements_local.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements_local.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements_local.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="course" type="Python.DjangoServer" factoryName="Django server">
       <module name="course" />
@@ -87,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583705925353</updated>
       <workItem from="1583705929106" duration="3113000" />
-      <workItem from="1583748170863" duration="1714000" />
+      <workItem from="1583748170863" duration="2039000" />
     </task>
     <servers />
   </component>
